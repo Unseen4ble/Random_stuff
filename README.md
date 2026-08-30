@@ -1,2 +1,1 @@
-# clg-assignment
-all assignment by my college that i might need later
+All my random shits i did that im not proud of
