@@ -1,0 +1,6 @@
+*.pyc
+*.pyd
+*.pyo
+
+profile_pics/
+__pycache__/
