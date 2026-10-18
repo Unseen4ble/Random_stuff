@@ -2,3 +2,9 @@
 
 *.sqlite3
 *.db
+*.pyc
+*.pyd
+*.pyo
+
+profile_pics/
+__pycache__/
