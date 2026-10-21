@@ -8,3 +8,8 @@
 
 profile_pics/
 __pycache__/
+
+.venv/
+venv/
+
+!.env.example
